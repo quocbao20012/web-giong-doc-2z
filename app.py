@@ -1,4 +1,4 @@
-streamlit
+import streamlit as st
 edge-tts
 asyncio
 import streamlit as st
