@@ -31,7 +31,7 @@ VOICES = {
 # --- GIAO DIỆN WEB ---
 st.set_page_config(page_title="AI TTS Ultimate", page_icon="🎧", layout="centered")
 
-st.title("🎧 AI TTS Ultimate - Đa Ngôn Ngữ")
+st.title("🎧 Giọng Đọc Văn Bản 2z ")
 st.write("Trang web chuyển đổi văn bản thành giọng nói chất lượng cao.")
 
 # Hộp nhập văn bản
