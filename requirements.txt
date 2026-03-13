@@ -1,5 +1,5 @@
 streamlit
 edge-tts
 asyncio
-streamlit-authenticator
 pysrt
+streamlit-option-menu
