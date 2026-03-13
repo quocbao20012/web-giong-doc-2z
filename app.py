@@ -1,7 +1,4 @@
 import streamlit as st
-edge-tts
-asyncio
-import streamlit as st
 import asyncio
 import edge_tts
 import os
@@ -88,4 +85,7 @@ if st.button("🚀 Tạo Giọng Đọc", use_container_width=True):
                         use_container_width=True
                     )
             except Exception as e:
+                streamlit
+edge-tts
+asyncio
                 st.error(f"Có lỗi xảy ra: {str(e)}")
